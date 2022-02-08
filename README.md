@@ -1,2 +1,2 @@
-# MEDIALpy
-MEDIcal Abbreviations Lookup in Python
+# MEDIALpy: MEDIcal Abbreviations Lookup in Python
+
