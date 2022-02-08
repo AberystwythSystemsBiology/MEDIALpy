@@ -1,2 +1,3 @@
 include README.md LICENSE
 include medialpy/*.json.gz
+recursive-include medialpy/ *
