@@ -29,6 +29,9 @@ def exists(s: str) -> bool:
         return False
     return bool(annotations.get(s, False))
 
+def get_version() -> str:
+    return annotations.get("_version")
+
 def find(s: str) -> Optional[MedicalAbbreviation]:
     if not s:
         return
