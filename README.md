@@ -1,5 +1,11 @@
 # MEDIALpy: MEDIcal Abbreviations Lookup in Python
 
+[![GitHub commits](https://badgen.net/github/commits/AberystwythSystemsBiology/MEDIALpy/main)](https://GitHub.com/AberystwythSystemsBiology/MEDIALpy/main/commit/)
+![GitHub issues](https://img.shields.io/github/issues/AberystwythSystemsBiology/MEDIALpy)
+![GitHub repo size](https://img.shields.io/github/repo-size/AberystwythSystemsBiology/MEDIALpy)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 A small python package that allows the user to look up common medical abbreviations.
 
 > **Notice:** Huge thank you to [imantsm](https://github.com/imantsm) for his excellent [medical abbreviations repository](https://github.com/imantsm/medical_abbreviations). If you found utility in this little tool, please go star the [original project](https://github.com/imantsm/medical_abbreviations).
