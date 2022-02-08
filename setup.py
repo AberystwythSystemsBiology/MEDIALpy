@@ -11,7 +11,7 @@ with open(path.join(this_directory, 'README.md')) as f:
 
 setup(
     name='medialpy',
-    version='0.0.2',
+    version='0.0.3',
     description='MEDIcal Abbreviations Lookup in Python',
     long_description=long_description,
     long_description_content_type='text/markdown',
