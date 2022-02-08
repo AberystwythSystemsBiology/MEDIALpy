@@ -1,6 +1,6 @@
 # MEDIALpy: MEDIcal Abbreviations Lookup in Python
 
-**Notice:** Huge thank you to [imantsm](https://github.com/imantsm) for his excellent (medical abbreviations repository)[https://github.com/imantsm/medical_abbreviations]. If you found utility in this little tool, please go star the (original project)[https://github.com/imantsm/medical_abbreviations].
+**Notice:** Huge thank you to [imantsm](https://github.com/imantsm) for his excellent [medical abbreviations repository](https://github.com/imantsm/medical_abbreviations). If you found utility in this little tool, please go star the [original project](https://github.com/imantsm/medical_abbreviations).
 
 ## Installation
 
