@@ -12,7 +12,13 @@ A small python package that allows the user to look up common medical abbreviati
 
 ## Installation
 
-You can install the development version directly from GitHub with:
+You can now install this package via PyPi:
+
+```
+pip install medialpy
+```
+
+Alternatively, you can install the development version directly from GitHub with:
 
 ```
 pip install git+https://github.com/AberystwythSystemsBiology/MEDIALpy
@@ -38,7 +44,7 @@ if medialpy.exists("AD"):
     print("Exists")
 ```
 
-### Check what version of imantsm's data dictonary is being used:
+### Check what version of imantsm's data dictionary is being used:
 
 ```python
 import medialpy
