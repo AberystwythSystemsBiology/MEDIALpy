@@ -10,7 +10,25 @@ You can install the development version directly from GitHub with:
 pip install git+https://github.com/AberystwythSystemsBiology/MEDIALpy
 ```
 
-## Example
+## Common Usage
+
+### Find an abbreviation:
+
+```python
+import medialpy
+
+term = medialpy.find("T1DM") 
+print(term.meaning) #['type 1 Diabetes Mellitus']
+```
+
+### Check if an abbreviation exists:
+
+```python
+import medialpy
+
+if medialpy.exists("AD"):
+    print("Exists")
+```
 
 ## Bug reporting and feature suggestions
 
