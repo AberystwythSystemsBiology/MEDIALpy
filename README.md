@@ -52,6 +52,17 @@ import medialpy
 print(medialpy.get_version()) # a62e91303c0966ab6803e765a752581f7d10fff9
 ```
 
+## Data Dictionary
+
+### a62e91303c0966ab6803e765a752581f7d10fff9
+
+- Original version pulled on 08/02/2022.
+
+### 41b875e19b7a6444c28aa60b89b9965d0a06dcb8
+
+- Version pulled on 19/04/2022.
+- 80 additions, 11 deletions.
+
 ## Bug reporting and feature suggestions
 
 Please report all bugs or feature suggestions to the [issues tracker](https://www.github.com/AberystwythSystemsBiology/MEDIALpy/issues). Please do not email me directly as I'm struggling to keep track of what needs to be fixed.
